@@ -1,5 +1,6 @@
 # KWL Chart
 
+by Sarah Brown
 
 <!-- replace the  _ in the table or add new rows as needed -->
 
