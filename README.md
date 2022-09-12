@@ -8,7 +8,7 @@ by Sarah Brown
 | ------| ------- | ------ | ------- |
 | Git | nothing | how to use it | _ |
 | GitHub | _ | why this over bitbucket? | _ |
-| Terminal | _ | _ | _ |
+| Terminal | moving files | usingmore programs | _ |
 | IDE | _ | _ | _ |
 | text editors | _ | _ | _ |
 |file system | _ | _ |_ |
