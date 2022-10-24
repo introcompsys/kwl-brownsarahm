@@ -20,3 +20,5 @@ jobs:
     - name: check
       run: |
         sysgetassignment --date 2022-10-19 | gh issue create --title "review" --body-file -
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
