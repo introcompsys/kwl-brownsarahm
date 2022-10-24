@@ -19,4 +19,4 @@ jobs:
 
     - name: check
       run: |
-        sysgetassignment --date 2022-10-19 | gh issue create -title "review" create --body-file -
+        sysgetassignment --date 2022-10-19 | gh issue create -title "review" --body-file -
