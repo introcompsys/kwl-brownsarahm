@@ -6,9 +6,9 @@ by Sarah Brown
 
 | Topic | Know | Want to Know | Learned |
 | ------| ------- | ------ | ------- |
-| Git | _ | _ | _ |
-| GitHub | _ | _ | _ |
-| Terminal | _ | _ | _ |
+| Git | nothing | how to use it | _ |
+| GitHub | _ | why this over bitbucket? | _ |
+| Terminal | moving files | usingmore programs | _ |
 | IDE | _ | _ | _ |
 | text editors | _ | _ | _ |
 |file system | _ | _ |_ |
