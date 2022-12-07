@@ -1,0 +1,26 @@
+on:
+  workflow_dispatch
+    
+jobs:
+  check-contents:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    
+    # Install dependencies
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.8
+    
+    - name: Install checker 
+      run: |
+        pip install git+https://github.com/introcompsys/courseutils@main
+         
+        
+    - name: Counter For C
+      run: kwlfilecount
+        
+            
+    - name: Counter For a B or highter
+      run: kwlfilecount --practice
