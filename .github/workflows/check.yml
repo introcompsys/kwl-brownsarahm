@@ -15,7 +15,7 @@ jobs:
     
     - name: Install checker 
       run: |
-        pip install git+https://github.com/introcompsys/courseutils@main
+        pip install git+https://github.com/introcompsys/courseutils@fa22
          
         
     - name: Counter For C
